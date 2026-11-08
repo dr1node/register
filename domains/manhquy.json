@@ -1,8 +1,8 @@
 {
-    "owner": {
-        "username": "manhquyvn"
-    },
-    "records": {
-        "CNAME": "manhquyvn.github.io"
-    }
+  "owner": {
+    "username": "manhquyvn"
+  },
+  "records": {
+    "CNAME": "manhquyvn.github.io"
+  }
 }
